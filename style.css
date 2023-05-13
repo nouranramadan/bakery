@@ -1,0 +1,205 @@
+.s1 {
+
+    text-align: center;
+    width: 100%;
+    padding-top: 50;
+    padding-bottom: 50;
+
+
+}
+
+.dish-item {
+    color: rgb(158, 120, 16);
+    width: 40%;
+    float: left;
+    padding: 65;
+}
+
+.dish-item img {
+    width: 100%;
+}
+
+.text {
+    width: 32.5%;
+    font-size: x-large;
+    text-align: left;
+}
+
+
+
+
+.text img {
+    width: 30px;
+}
+
+.s2 {
+    background-color: rgb(232, 251, 252);
+    width: 100%;
+
+    padding-top: 80;
+    padding-bottom: 50;
+
+
+}
+
+.dish-item1 {
+    color: rgb(158, 120, 16);
+    width: 45%;
+    float: left;
+    padding: 15;
+}
+
+.dish-item1 img {
+    width: 600;
+    text-align: right;
+}
+
+.text1 {
+    font-size: large;
+    padding-top: 70;
+}
+
+#location {
+    font-size: 40;
+}
+
+.Dishes {
+    color: rgb(158, 120, 16);
+    text-align: center;
+    height: 1000;
+
+
+}
+
+.item {
+    float: left;
+    width: 30.5%;
+    padding: 5;
+
+}
+
+.item img {
+    width: 100%;
+}
+
+#BK {
+    font-size: 40;
+}
+
+.dish-item2 {
+    color: rgb(158, 120, 16);
+    width: 45%;
+    float: left;
+    padding: 15;
+}
+
+.icons {
+    width: 20px;
+}
+
+
+.AboutUs {
+    background-color: rgb(83, 70, 33);
+    color: rgb(214, 214, 208);
+    padding-bottom: 50;
+    padding-top: 50;
+
+}
+
+.item1 {
+    float: left;
+    width: 23.5%;
+    padding: 5;
+    font-size: 20;
+    margin: 5;
+
+}
+
+.footer {
+    background-color: rgb(54, 46, 21);
+
+    text-align: center;
+    color: rgb(214, 214, 208);
+    padding-top: 80;
+    padding-bottom: 50;
+}
+
+.item2 {
+    width: 25px;
+}
+
+.logo2 {
+    width: 250;
+}
+
+.header {
+    background-image: url(images/bg.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.welcome {
+    padding-top: 170;
+    font-size: large;
+    color: beige;
+
+}
+
+.welcome h3 {
+    font-size: 66;
+    margin: 30;
+}
+
+.welcome button {
+    padding: 20;
+    border-radius: 10px;
+    font-size: medium;
+    margin: 10;
+    background-color: rgb(83, 70, 33);
+
+}
+
+#LM {
+    border: 0px;
+    color: beige;
+}
+
+#Cu {
+    background-color: transparent;
+    border-color: beige;
+    color: beige;
+}
+
+.navbar {
+    padding: 20;
+    background-color: beige;
+    height: 40;
+}
+
+.content {
+    float: right;
+    margin-right: 5;
+    color: rgb(180, 180, 162);
+    font-size: 20px;
+    padding: 20;
+}
+
+.logo {
+    float: left;
+}
+
+.logo img {
+    width: 190;
+    margin-left: 50;
+    padding: 0;
+}
+
+.clr {
+    clear: both;
+}
+
+li {
+    list-style: square;
+}
